@@ -1,0 +1,5 @@
+data = input('영어 문장 입력 >> ')
+words = data.split()
+print(words)
+len(words)
+print('단어 개수 : ' ,len(words))

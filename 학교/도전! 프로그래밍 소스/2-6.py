@@ -1,0 +1,6 @@
+num = input('Enter First number :')
+num2 = input('Enter Second number :')
+print(int(num), '/',int(num2), '==> ',int(num) / int(num2)) 
+print(int(num), '%',int(num2), '==> ',int(num) % int(num2))
+print(int(num), '//',int(num2), '==> ',int(num) // int(num2))
+print(int(num), '**',int(num2), '==> ',int(num) ** int(num2))
